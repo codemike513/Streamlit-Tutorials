@@ -13,3 +13,8 @@ Streamlit is a Python Framework for developing Web Applications, especially for 
 ```
 streamlit run app.py
 ```
+
+1. Text Elements
+2. Display Elements
+3. Plots and Media Widgets
+4. Basic Interactive Widgets
